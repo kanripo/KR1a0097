@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 易像鈔
-#+DATE: 2015-09-23 09:35:08
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 21:57:37.331913
+#+PROPERTY: ID KR1a0097
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1a0097_WYG_011-1a>¶
 欽定四庫全書¶
 　易像鈔卷十一　　　　　明　胡居仁　撰¶
@@ -704,4 +706,3 @@
 　¶
 　¶
 　易像鈔卷十一¶
-
